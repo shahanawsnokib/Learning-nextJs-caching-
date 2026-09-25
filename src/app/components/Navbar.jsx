@@ -7,6 +7,7 @@ const Navbar = () => {
    
       <li><Link href='/'>Home</Link></li>
       <li><Link href='/Post'>Post</Link></li>
+      <li><Link href='/products'>Prodcuts</Link></li>
       <li><Link href='/deshboard'>Deshboard</Link></li>
    
    </>
